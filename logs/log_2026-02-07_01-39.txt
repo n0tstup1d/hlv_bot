@@ -1,0 +1,54 @@
+[2026-02-07 01:39:51] [DEBUG] Looking up time zone info from registry
+[2026-02-07 01:39:51] [DEBUG] Using proactor: IocpProactor
+[2026-02-07 01:39:51] [DEBUG] ✅ Подключились к базе halyava!
+[2026-02-07 01:39:51] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2026-02-07 01:39:51] [INFO] Added job "Database.backup_database_and_send_to_admin" to job store "default"
+[2026-02-07 01:39:51] [INFO] Scheduler started
+[2026-02-07 01:39:51] [DEBUG] ✅ Планировщик бэкапов запущен (каждые 24 часа).
+[2026-02-07 01:39:51] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2026-02-07 01:39:51] [INFO] Added job "send_daily_digest" to job store "default"
+[2026-02-07 01:39:51] [INFO] Scheduler started
+[2026-02-07 01:39:51] [INFO] Start polling
+[2026-02-07 01:39:51] [DEBUG] Looking for jobs to run
+[2026-02-07 01:39:51] [DEBUG] Next wakeup is due at 2026-02-08 01:39:51.456602+05:00 (in 86399.993119 seconds)
+[2026-02-07 01:39:51] [DEBUG] Looking for jobs to run
+[2026-02-07 01:39:51] [DEBUG] Next wakeup is due at 2026-02-07 15:00:00+05:00 (in 48008.536368 seconds)
+[2026-02-07 01:39:51] [INFO] Running job "Database.backup_database_and_send_to_admin (trigger: interval[1 day, 0:00:00], next run at: 2026-02-08 01:39:51 +05)" (scheduled at 2026-02-07 01:39:51.456602+05:00)
+[2026-02-07 01:39:51] [DEBUG] ✅ Бэкап успешно создан: halyava_backu_20260207_013951.sql
+[2026-02-07 01:39:51] [INFO] Run polling for bot @utylbot id=8222273795 - 'иуда'
+[2026-02-07 01:39:54] [DEBUG] ✅ Файл бэкапа отправлен и удален.
+[2026-02-07 01:39:54] [INFO] Job "Database.backup_database_and_send_to_admin (trigger: interval[1 day, 0:00:00], next run at: 2026-02-08 01:39:51 +05)" executed successfully
+[2026-02-07 01:40:04] [INFO] Polling stopped
+[2026-02-07 01:40:04] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+[2026-02-07 01:40:04] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8222273795)
+[2026-02-07 01:40:04] [INFO] Not disconnecting (already have no connection)
+[2026-02-07 01:40:04] [INFO] Polling stopped for bot @utylbot id=8222273795 - 'иуда'
+[2026-02-07 01:40:04] [INFO] Traceback (most recent call last):
+[2026-02-07 01:40:04] [INFO] File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+[2026-02-07 01:40:04] [INFO] File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+[2026-02-07 01:40:04] [INFO] File "c:\Users\GERMAN\Desktop\halyava_bot\main.py", line 88, in main
+    await dp.start_polling(bot_tg, db=db)
+[2026-02-07 01:40:04] [INFO] File "C:\Users\GERMAN\Desktop\halyava_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 613, in start_polling
+    done, pending = await asyncio.wait(tasks, return_when=asyncio.FIRST_COMPLETED)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-02-07 01:40:04] [INFO] File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\tasks.py", line 432, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-02-07 01:40:04] [INFO] File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\tasks.py", line 521, in _wait
+    await waiter
+[2026-02-07 01:40:04] [INFO] asyncio.exceptions.CancelledError
+[2026-02-07 01:40:04] [INFO] During handling of the above exception, another exception occurred:
+[2026-02-07 01:40:04] [INFO] Traceback (most recent call last):
+[2026-02-07 01:40:04] [INFO] File "c:\Users\GERMAN\Desktop\halyava_bot\main.py", line 107, in <module>
+    asyncio.run(main())
+    ~~~~~~~~~~~^^^^^^^^
+[2026-02-07 01:40:04] [INFO] File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+[2026-02-07 01:40:04] [INFO] File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 132, in run
+    raise KeyboardInterrupt()
+[2026-02-07 01:40:04] [INFO] KeyboardInterrupt

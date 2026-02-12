@@ -1,0 +1,49 @@
+✅ Подключились к базе halyava!
+✅ Планировщик бэкапов запущен (каждые 24 часа).
+✅ Бэкап успешно создан: halyava_backu_20260206_152708.sql
+✅ Файл бэкапа отправлен и удален.
+✅ Задача keep_alive запущена.
+✅ Бот запущен
+==============================
+Message(id=16491, peer_id=PeerChannel(channel_id=2086938408), date=datetime.datetime(2026, 2, 5, 20, 22, 4, tzinfo=datetime.timezone.utc), message='Мы вас услышали и устроили розыгрыш ТРЁХ iPhone 17 Pro Max во всех представленных цветах! Космический оранжевый, серебряный или насыщенный синий: именно вам может достаться айфон в любом из перечисленных цветов.\n\nЧтобы принять участие, нужно:\n\n1. Быть подписанным на Ленту дня\n2. Нажать под этим постом на кнопку «Участвую!»\n4. Дождаться результатов 27 февраля — именно в этот день бот случайным образом выберет имена троих счастливчиков в соответствии с правилами проведения.\n\nВсем удачи! И не забудьте поделиться постом с друзьями❤️', out=False, mentioned=False, media_unread=False, silent=False, post=True, from_scheduled=False, legacy=False, edit_hide=True, pinned=False, noforwards=False, invert_media=False, offline=False, video_processing_pending=False, paid_suggested_post_stars=False, paid_suggested_post_ton=False, from_id=None, from_boosts_applied=None, saved_peer_id=None, fwd_from=MessageFwdHeader(date=datetime.datetime(2026, 2, 5, 11, 47, tzinfo=datetime.timezone.utc), imported=False, saved_out=False, from_id=PeerChannel(channel_id=1115468824), from_name=None, channel_post=147646, post_author=None, saved_from_peer=None, saved_from_msg_id=None, saved_from_id=None, saved_from_name=None, saved_date=None, psa_type=None), via_bot_id=None, via_business_bot_id=None, reply_to=None, media=MessageMediaPhoto(spoiler=False, photo=Photo(id=5194977409868959376, access_hash=230400167578747844, file_reference=b"\x02|d'(\x00\x00@ki\x85\xc2\x11\xc4\xa4\xa7C\xb3.`\x05\xc8\x87\x10\xd7N\rL\xce", date=datetime.datetime(2026, 2, 4, 12, 13, 45, tzinfo=datetime.timezone.utc), sizes=[PhotoStrippedSize(type='i', bytes=b"\x01( \xcf\x89\xb0\x06\x17\x03\xd6\xa7\xf3Nx<Ux\xfc\xed\x80$\x9bG\\f\xaeZ\xc6X\x0f\x90K'%\xb7\x0c\x83\xe9\xcf\xe7I\xc52\x94\x88\x8c\xa4\x0eZ\xa1yU\x81\xefW\xb5H\xa3X\x01H\xc2\x9c\xf5\x02\xab\xb5\xbc{\xc0\xc7U\x06\xa6\xc9\x14\x9bc-\xe3\xdf\x0e\xe6}\xa8\xa3\x92{sZ6q\xf9\x04\xb8\x900a\xc6\x05Q\xb3\x0c\xf6\xd2\xaa\x00I\x03\xaf\xd6\xadG\x11V\xdf\xc8$\x00Tt\xa2R\xb0B\x17\x13U\x97t\x1b{\x86\x15\x04\x87\x07\xf0\x1f\xca\x99~[\n\x1b\xa9\xa6\xceq\xcf\xb0\xfeTn\x86\xd5\x9b$\xd3\x1b\x1e`>\xdf\xd6\xb47\x8a(\xac\xe7\xb9t\xf63\xb52\x0bG\xf45^YC\x8c}(\xa2\xb4\x8a\xd0\xcaoV\x7f"), PhotoSize(type='m', w=256, h=320, size=20476), PhotoSize(type='x', w=640, h=800, size=79967), PhotoSizeProgressive(type='y', w=1024, h=1280, sizes=[15811, 33147, 45220, 62402, 113637])], dc_id=2, has_stickers=False, video_sizes=[]), ttl_seconds=None), reply_markup=ReplyInlineMarkup(rows=[KeyboardButtonRow(buttons=[KeyboardButtonUrl(text='Участвую! (6714)', url='https://t.me/giway_tech_bot/giveaway_app?startapp=68923058')])]), entities=[MessageEntityBold(offset=0, length=81), MessageEntityBold(offset=82, length=7), MessageEntityTextUrl(offset=267, length=9, url='https://t.me/+T9v95lQy-9gyM2Ri'), MessageEntityTextUrl(offset=455, length=20, url='https://lenta.ru/news/2026/02/04/pravila-provedeniya-konkursa-troyka-ayfonov/')], views=241, forwards=0, replies=None, edit_date=datetime.datetime(2026, 2, 5, 20, 46, 39, tzinfo=datetime.timezone.utc), post_author=None, grouped_id=None, reactions=MessageReactions(results=[ReactionCount(reaction=ReactionEmoji(emoticon='❤'), count=3, chosen_order=None)], min=False, can_see_list=False, reactions_as_tags=False, recent_reactions=[], top_reactors=[]), restriction_reason=[], ttl_period=None, quick_reply_shortcut_id=None, effect=None, factcheck=None, report_delivery_until_date=None, paid_message_stars=None, suggested_post=None)
+==============================
+нашли пост: Мы вас услышали и ус... | URL: https://t.me/lentadnya/147646
+Результат анализа: GIVEAWAY
+Ключевые слова: ['розыгрыш', 'счастливчик']
+Баллы: розыгрыш=5.60, реклама=0.30, итог=5.30
+analysis_data['end_date'] 27 февраля
+🎁 Найден розыгрыш! Пересылаем...
+Keep-alive error: Cannot send requests while disconnected
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8222273795)
+Traceback (most recent call last):
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "c:\Users\GERMAN\Desktop\halyava_bot\main.py", line 59, in main
+    await dp.start_polling(bot_tg, db=db)
+  File "C:\Users\GERMAN\Desktop\halyava_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 613, in start_polling
+    done, pending = await asyncio.wait(tasks, return_when=asyncio.FIRST_COMPLETED)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\tasks.py", line 432, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\tasks.py", line 521, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\GERMAN\Desktop\halyava_bot\main.py", line 78, in <module>
+    asyncio.run(main())
+    ~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 132, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt

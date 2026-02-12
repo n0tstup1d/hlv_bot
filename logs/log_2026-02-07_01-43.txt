@@ -1,0 +1,72 @@
+[2026-02-07 01:43:17] [DEBUG] Looking up time zone info from registry
+[2026-02-07 01:43:18] [DEBUG] ✅ Подключились к базе halyava!
+[2026-02-07 01:43:18] [DEBUG] ✅ Планировщик бэкапов запущен (каждые 24 часа).
+[2026-02-07 01:43:18] [DEBUG] ✅ Бэкап успешно создан: halyava_backu_20260207_014318.sql
+[2026-02-07 01:43:20] [DEBUG] ✅ Файл бэкапа отправлен и удален.
+[2026-02-07 01:43:44] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+[2026-02-07 01:43:44] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8222273795)
+[2026-02-07 01:43:44] [INFO] Traceback (most recent call last):
+[2026-02-07 01:43:44] [INFO] File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+[2026-02-07 01:43:44] [INFO] File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+[2026-02-07 01:43:44] [INFO] File "c:\Users\GERMAN\Desktop\halyava_bot\main.py", line 97, in main
+    from callbacks import adm_callback
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-02-07 01:43:44] [INFO] File "C:\Users\GERMAN\Desktop\halyava_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 613, in start_polling
+    done, pending = await asyncio.wait(tasks, return_when=asyncio.FIRST_COMPLETED)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-02-07 01:43:44] [INFO] File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\tasks.py", line 432, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-02-07 01:43:44] [INFO] File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\tasks.py", line 521, in _wait
+    await waiter
+[2026-02-07 01:43:44] [INFO] asyncio.exceptions.CancelledError
+[2026-02-07 01:43:44] [INFO] During handling of the above exception, another exception occurred:
+[2026-02-07 01:43:44] [INFO] Traceback (most recent call last):
+[2026-02-07 01:43:44] [INFO] File "c:\Users\GERMAN\Desktop\halyava_bot\main.py", line 116, in <module>
+    return await handler(event, data)
+    ^^^^^^^^^^^^^^^
+[2026-02-07 01:43:44] [INFO] File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+[2026-02-07 01:43:44] [INFO] File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 132, in run
+    raise KeyboardInterrupt()
+[2026-02-07 01:43:44] [INFO] KeyboardInterrupt
+[2026-02-07 01:43:47] [DEBUG] Looking up time zone info from registry
+[2026-02-07 01:43:47] [DEBUG] ✅ Подключились к базе halyava!
+[2026-02-07 01:43:47] [DEBUG] ✅ Планировщик бэкапов запущен (каждые 24 часа).
+[2026-02-07 01:43:47] [DEBUG] ✅ Бэкап успешно создан: halyava_backu_20260207_014347.sql
+[2026-02-07 01:43:50] [DEBUG] ✅ Файл бэкапа отправлен и удален.
+[2026-02-07 01:45:20] [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+[2026-02-07 01:45:20] [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8222273795)
+[2026-02-07 01:45:20] [INFO] Traceback (most recent call last):
+[2026-02-07 01:45:20] [INFO] File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+[2026-02-07 01:45:20] [INFO] File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+[2026-02-07 01:45:20] [INFO] File "c:\Users\GERMAN\Desktop\halyava_bot\main.py", line 101, in main
+    async def __call__(self, handler, event: types.Update, data):
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-02-07 01:45:20] [INFO] File "C:\Users\GERMAN\Desktop\halyava_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 613, in start_polling
+    done, pending = await asyncio.wait(tasks, return_when=asyncio.FIRST_COMPLETED)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-02-07 01:45:20] [INFO] File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\tasks.py", line 432, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-02-07 01:45:20] [INFO] File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\tasks.py", line 521, in _wait
+    await waiter
+[2026-02-07 01:45:20] [INFO] asyncio.exceptions.CancelledError
+[2026-02-07 01:45:20] [INFO] During handling of the above exception, another exception occurred:
+[2026-02-07 01:45:20] [INFO] Traceback (most recent call last):
+[2026-02-07 01:45:20] [INFO] File "c:\Users\GERMAN\Desktop\halyava_bot\main.py", line 120, in <module>
+[2026-02-07 01:45:20] [INFO] File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+[2026-02-07 01:45:20] [INFO] File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 132, in run
+    raise KeyboardInterrupt()
+[2026-02-07 01:45:20] [INFO] KeyboardInterrupt

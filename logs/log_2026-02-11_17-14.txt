@@ -1,0 +1,26 @@
+Traceback (most recent call last):
+  File "c:\Users\GERMAN\Desktop\halyava_bot\main.py", line 79, in <module>
+    asyncio.run(main())
+    ~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "c:\Users\GERMAN\Desktop\halyava_bot\main.py", line 43, in main
+    await db.connect()
+  File "c:\Users\GERMAN\Desktop\halyava_bot\dataBase\database.py", line 38, in connect
+    await self.created_tables()
+  File "c:\Users\GERMAN\Desktop\halyava_bot\dataBase\database.py", line 54, in created_tables
+    await conn.execute('''
+    ...<20 lines>...
+    )''')
+  File "C:\Users\GERMAN\Desktop\halyava_bot\.venv\Lib\site-packages\asyncpg\connection.py", line 354, in execute
+    result = await self._protocol.query(query, timeout)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg/protocol/protocol.pyx", line 369, in query
+asyncpg.exceptions.DuplicateTableError: отношение "accounts" уже существует

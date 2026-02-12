@@ -1,0 +1,45 @@
+✅ Подключились к базе halyava!
+✅ Планировщик бэкапов запущен (каждые 24 часа).
+✅ Бэкап успешно создан: halyava_backu_20260203_214248.sql
+✅ Файл бэкапа отправлен и удален.
+✅ Задача keep_alive запущена.
+✅ Бот запущен
+
+Начинаю проверку и подписку на каналы...
+❌ Ошибка при подписке: 'int' object is not iterable
+==============================
+Message(id=16273, peer_id=PeerChannel(channel_id=2086938408), date=datetime.datetime(2026, 2, 3, 16, 28, 55, tzinfo=datetime.timezone.utc), message='⚡️РОЗЫГРЫШ ПЕРИФЕРИИ\n\n1 место - Мышка Ajazz AJ159 APEX\n2 место - Клавиатура Red Square Alumix TKL SE\n3 место - Мышка Ajazz AJ179P MC\n4 и 5 место - TWS-Наушники A9 Pro+\n\nУсловия:\n🔴Подписаться на IT-АТМОСФЕРА\n🔴Подписаться на Pro_Technology\n\nА также нажать на кнопку «Участвую» \n\n📆 Итоги подведем 08.02.2026 в 21:00 по МСК', out=False, mentioned=False, media_unread=False, silent=False, post=True, from_scheduled=False, legacy=False, edit_hide=False, pinned=False, noforwards=False, invert_media=False, offline=False, video_processing_pending=False, paid_suggested_post_stars=False, paid_suggested_post_ton=False, from_id=None, from_boosts_applied=None, saved_peer_id=None, fwd_from=MessageFwdHeader(date=datetime.datetime(2026, 2, 3, 11, 2, 29, tzinfo=datetime.timezone.utc), imported=False, saved_out=False, from_id=PeerChannel(channel_id=1607587834), from_name=None, channel_post=29908, post_author=None, saved_from_peer=None, saved_from_msg_id=None, saved_from_id=None, saved_from_name=None, saved_date=None, psa_type=None), via_bot_id=None, via_business_bot_id=None, reply_to=None, media=MessageMediaPhoto(spoiler=False, photo=Photo(id=5192887513142463435, access_hash=-9086581976100081427, file_reference=b"\x02|d'(\x00\x00?\x91i\x82%\x9c\xb6\rts_\xd6\xcf\x8eQ\x97}\x81\xf9\x1d\xd6\xf4", date=datetime.datetime(2026, 2, 3, 10, 51, 14, tzinfo=datetime.timezone.utc), sizes=[PhotoStrippedSize(type='i', bytes=b'\x01((\xccTf\xce\xd1\x9cT\xab\xe7(\xfb\xa4\xd3\xed\xfc\xa1\x1by\x8f\xb5\xbf\xfa\xdfJ\x94\xb4\x07 H\xc3\x8c\x83\x9e\xf9>\xde\x98\xaaD=H30\xea\xa6\x91\xbc\xe6\xc8\xdajv0m?\xbcf\xcfo\xc7\xe9\xf5\xa5\xff\x00G\x04\xed\x99\x87\xf9>\xdfJw\x15\x8a/\x1b.7\x023\xd2\x8a\xb5s\xe4\x94C\x1c\x85\x9b\x8c\x83\xda\x8aZ\x0e\xec-a\x8e]\xc1\xdf\x04t\x14\xeb\xab3\x08\xde\x87t\x7f\xa8\xa6[\xb2E0w\xce?\x95Y\xba\xbaSj\xc80\xc1\x87\x07>\xf4\xc9\xd6\xe4\x11.\xf8\xc7 \x11\xec)\xaf\x08\\\xfc\xf9>\x94\x961,\xf2\x94}\xfd3\xf2\x9cb\x8b\x9bw\x82\xe7\xc9\x0c[8\xda}i\\\xbb"\x1c`\x91EN`\xc2o\xdcN}\xa8\xa7b\x1b\r\xee\xab\x858\xa8$%\x98\x96\xe4\xd1E6\x11\xdc!q\x1b\xee;\x87\xa1S\xcdH\xd2\xb4\x93\t2I\x1d\xcd\x14R)\x93<\xf2H\x08v\xc88\xa2\x8a*\xacf\xd9'), PhotoSize(type='m', w=320, h=320, size=24679), PhotoSize(type='x', w=800, h=800, size=80278), PhotoSizeProgressive(type='y', w=1280, h=1280, sizes=[20032, 43458, 65899, 86417, 131601])], dc_id=2, has_stickers=False, video_sizes=[]), ttl_seconds=None), reply_markup=ReplyInlineMarkup(rows=[KeyboardButtonRow(buttons=[KeyboardButtonUrl(text='Участвую! (25)', url='https://t.me/Random/JoinLot?startapp=2004322G21fb50e&startApp=2004322G21fb50e')])]), entities=[MessageEntityCustomEmoji(offset=0, length=2, document_id=5456140674028019486), MessageEntityBold(offset=2, length=18), MessageEntityBold(offset=169, length=8), MessageEntityCustomEmoji(offset=178, length=2, document_id=5253856244191487380), MessageEntityTextUrl(offset=195, length=12, url='https://t.me/texanit'), MessageEntityBold(offset=195, length=12), MessageEntityCustomEmoji(offset=208, length=2, document_id=5253856244191487380), MessageEntityTextUrl(offset=225, length=14, url='https://t.me/+HCHNU45s2YtiMzVi'), MessageEntityBold(offset=225, length=14), MessageEntityBold(offset=266, length=11), MessageEntityBold(offset=279, length=36), MessageEntityBold(offset=316, length=6)], views=33, forwards=0, replies=None, edit_date=None, post_author=None, grouped_id=None, reactions=None, restriction_reason=[], ttl_period=None, quick_reply_shortcut_id=None, effect=None, factcheck=None, report_delivery_until_date=None, paid_message_stars=None, suggested_post=None)
+==============================
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8222273795)
+Traceback (most recent call last):
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "c:\Users\GERMAN\Desktop\halyava_bot\main.py", line 59, in main
+    await dp.start_polling(bot_tg, db=db)
+  File "C:\Users\GERMAN\Desktop\halyava_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 613, in start_polling
+    done, pending = await asyncio.wait(tasks, return_when=asyncio.FIRST_COMPLETED)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\tasks.py", line 432, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\tasks.py", line 521, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\GERMAN\Desktop\halyava_bot\main.py", line 78, in <module>
+    asyncio.run(main())
+    ~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 132, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt

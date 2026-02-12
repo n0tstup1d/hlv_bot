@@ -1,0 +1,123 @@
+✅ Подключились к базе halyava!
+✅ Планировщик бэкапов запущен (каждые 24 часа).
+✅ Бэкап успешно создан: halyava_backu_20260208_165224.sql
+✅ Файл бэкапа отправлен и удален.
+
+Начинаю проверку и подписку на каналы...
+✅ Успешная подписка: Додо Пицца Россия
+таймер
+✅ Успешная подписка: Все конкурсы / розыгрыши в Телеграме
+таймер
+✅ Успешная подписка: Розыгрыши в Telegram
+таймер
+✅ Успешная подписка: Розыгрыши со всего Телеграма
+таймер
+✅ Успешная подписка: NN
+таймер
+✅ Успешная подписка: Розыгрыши от Москвача
+таймер
+⚠️ Ошибка с каналом @zolotoy585club: No user has "zolotoy585club" as username
+⚠️ Ошибка с каналом @rutravellers: No user has "rutravellers" as username
+⚠️ Ошибка с каналом @chizhikmagazin: No user has "chizhikmagazin" as username
+⚠️ Ошибка с каналом @tspyaterochka: No user has "tspyaterochka" as username
+⚠️ Ошибка с каналом @yandexfintech: No user has "yandexfintech" as username
+⚠️ Ошибка с каналом @moscowach: No user has "moscowach" as username
+⚠️ Ошибка с каналом @memachh: No user has "memachh" as username
+⚠️ Ошибка с каналом @mosguru: No user has "mosguru" as username
+⚠️ Ошибка с каналом @exploitex: No user has "exploitex" as username
+⚠️ Ошибка с каналом @msk_live: No user has "msk_live" as username
+⚠️ Ошибка с каналом @aaa_only: No user has "aaa_only" as username
+⚠️ Ошибка с каналом @cybers: No user has "cybers" as username
+⚠️ Ошибка с каналом @magnit_retail: No user has "magnit_retail" as username
+⚠️ Ошибка с каналом @perekrestok_store: No user has "perekrestok_store" as username
+⚠️ Ошибка с каналом @loot_premium: No user has "loot_premium" as username
+⚠️ Ошибка с каналом @AppleRaffle: No user has "appleraffle" as username
+⚠️ Ошибка с каналом @wildberriesru_official: No user has "wildberriesru_official" as username
+⚠️ Ошибка с каналом @lichi: No user has "lichi" as username
+⚠️ Ошибка с каналом @mnews_ru: No user has "mnews_ru" as username
+⚠️ Ошибка с каналом @sale_caviar: No user has "sale_caviar" as username
+⚠️ Ошибка с каналом @technodeus2023: No user has "technodeus2023" as username
+⚠️ Ошибка с каналом @pfccskamoscow: No user has "pfccskamoscow" as username
+⚠️ Ошибка с каналом @news_74ru: No user has "news_74ru" as username
+⚠️ Ошибка с каналом @foodrumedia: No user has "foodrumedia" as username
+⚠️ Ошибка с каналом @ozonru: No user has "ozonru" as username
+⚠️ Ошибка с каналом @goldapple: No user has "goldapple" as username
+⚠️ Ошибка с каналом @kinopoisk: No user has "kinopoisk" as username
+⚠️ Ошибка с каналом @mixit_mood: No user has "mixit_mood" as username
+⚠️ Ошибка с каналом @rozetked: No user has "rozetked" as username
+⚠️ Ошибка с каналом @biggeekru: No user has "biggeekru" as username
+⚠️ Ошибка с каналом @tutu_travel: No user has "tutu_travel" as username
+⚠️ Ошибка с каналом @sportsru: No user has "sportsru" as username
+⚠️ Ошибка с каналом @ozontravel_official: No user has "ozontravel_official" as username
+⚠️ Ошибка с каналом @sportmasterofficial: No user has "sportmasterofficial" as username
+⚠️ Ошибка с каналом @rolf_company: No user has "rolf_company" as username
+⚠️ Ошибка с каналом @mknewsru: No user has "mknewsru" as username
+⚠️ Ошибка с каналом @geelyofficial: No user has "geelyofficial" as username
+⚠️ Ошибка с каналом @simply_formula: No user has "simply_formula" as username
+⚠️ Ошибка с каналом @halvacard_official: No user has "halvacard_official" as username
+⚠️ Ошибка с каналом @mospulse: No user has "mospulse" as username
+⚠️ Ошибка с каналом @pharmacosmetica_ru: No user has "pharmacosmetica_ru" as username
+⚠️ Ошибка с каналом @cleanplusru: No user has "cleanplusru" as username
+⚠️ Ошибка с каналом @serdolikgold: No user has "serdolikgold" as username
+⚠️ Ошибка с каналом @luckyman_ok: No user has "luckyman_ok" as username
+⚠️ Ошибка с каналом @vivalavape: No user has "vivalavape" as username
+⚠️ Ошибка с каналом @loverepublicofficial: No user has "loverepublicofficial" as username
+⚠️ Ошибка с каналом @minsport_russia: No user has "minsport_russia" as username
+⚠️ Ошибка с каналом @icity_store: No user has "icity_store" as username
+⚠️ Ошибка с каналом @lada_rf: No user has "lada_rf" as username
+⚠️ Ошибка с каналом @bqrussia: No user has "bqrussia" as username
+⚠️ Ошибка с каналом @restore_ru: No user has "restore_ru" as username
+⚠️ Ошибка с каналом @solo_q_q: No user has "solo_q_q" as username
+⚠️ Ошибка с каналом @Romancev768: No user has "romancev768" as username
+⚠️ Ошибка с каналом @kitforttelegram: No user has "kitforttelegram" as username
+⚠️ Ошибка с каналом @onlinetradeshopru: No user has "onlinetradeshopru" as username
+⚠️ Ошибка с каналом @VseInstrumentiruDIY: No user has "vseinstrumentirudiy" as username
+⚠️ Ошибка с каналом @khl_official_telegram: No user has "khl_official_telegram" as username
+⚠️ Ошибка с каналом @mskswrd: No user has "mskswrd" as username
+⚠️ Ошибка с каналом @firstandred: No user has "firstandred" as username
+⚠️ Ошибка с каналом @Technical_R_D: No user has "technical_r_d" as username
+⚠️ Ошибка с каналом @Wylsared: No user has "wylsared" as username
+⚠️ Ошибка с каналом @advance_emp: No user has "advance_emp" as username
+⚠️ Ошибка с каналом @FORXMENCARE: No user has "forxmencare" as username
+⚠️ Ошибка с каналом @mczjewelry: No user has "mczjewelry" as username
+⚠️ Ошибка с каналом @updatesmusicxd: No user has "updatesmusicxd" as username
+⚠️ Ошибка с каналом @srslymedia: No user has "srslymedia" as username
+⚠️ Ошибка с каналом @too_skin: No user has "too_skin" as username
+⚠️ Ошибка с каналом @matchpremier: No user has "matchpremier" as username
+⚠️ Ошибка с каналом @aviasales: No user has "aviasales" as username
+⚠️ Ошибка с каналом @avito: No user has "avito" as username
+⚠️ Ошибка с каналом @fcsmtg: No user has "fcsmtg" as username
+⚠️ Ошибка с каналом @uranews: No user has "uranews" as username
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8222273795)
+Traceback (most recent call last):
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "c:\Users\GERMAN\Desktop\halyava_bot\main.py", line 60, in main
+    await dp.start_polling(bot_tg, db=db)
+  File "C:\Users\GERMAN\Desktop\halyava_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 613, in start_polling
+    done, pending = await asyncio.wait(tasks, return_when=asyncio.FIRST_COMPLETED)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\tasks.py", line 432, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\tasks.py", line 521, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\GERMAN\Desktop\halyava_bot\main.py", line 79, in <module>
+    asyncio.run(main())
+    ~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 132, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt

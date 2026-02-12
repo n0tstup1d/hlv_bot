@@ -1,0 +1,69 @@
+✅ Подключились к базе halyava!
+✅ Планировщик бэкапов запущен (каждые 24 часа).
+✅ Бэкап успешно создан: halyava_backu_20260204_004735.sql
+✅ Файл бэкапа отправлен и удален.
+✅ Задача keep_alive запущена.
+✅ Бот запущен
+==============================
+Message(id=16128, peer_id=PeerChannel(channel_id=2086938408), date=datetime.datetime(2026, 2, 1, 17, 39, 26, tzinfo=datetime.timezone.utc), message='Конкурс! Решили порадовать вас и подарить подарочный сертификат на 3 000₽ на новый спортивный образ EUPHORIA и бьюти-бокс с новинками Botavikos 💗\n⠀⠀⠀\n1. Проверьте подписку на @botavikosclub и @euphoriafit\n2. Нажмите кнопку "Участвовать" под постом\n⠀⠀\nРезультаты подведем в понедельник, 9 февраля в 15:00. \n\nВыберем сразу 2х победителей через рандомайзер и отметим в публикации. Каждый победитель получит и бьюти-бокс, и сертификат!', out=False, mentioned=False, media_unread=False, silent=False, post=True, from_scheduled=False, legacy=False, edit_hide=False, pinned=False, noforwards=False, invert_media=False, offline=False, video_processing_pending=False, paid_suggested_post_stars=False, paid_suggested_post_ton=False, from_id=None, from_boosts_applied=None, saved_peer_id=None, fwd_from=MessageFwdHeader(date=datetime.datetime(2026, 1, 31, 13, 13, 43, tzinfo=datetime.timezone.utc), imported=False, saved_out=False, from_id=PeerChannel(channel_id=1601114049), from_name=None, channel_post=3064, post_author=None, saved_from_peer=None, saved_from_msg_id=None, saved_from_id=None, saved_from_name=None, saved_date=None, psa_type=None), via_bot_id=None, via_business_bot_id=None, reply_to=None, media=MessageMediaPhoto(spoiler=False, photo=Photo(id=5469914810699944052, access_hash=-4028795353149615329, file_reference=b"\x02|d'(\x00\x00?\x00i\x82P\xe6\xad\xb6\x7f)\x1d_^f<\xa1\x92D\xf9\xb8\xdd\xf4", date=datetime.datetime(2026, 1, 31, 12, 3, 21, tzinfo=datetime.timezone.utc), sizes=[PhotoStrippedSize(type='i', bytes=b'\x01( \xd2U\xac\xdb\xb2\xf2\xce\xdc\x9d\x8b\xc0\x15\xac\xa2\xa8\xdd\xc6\x82c\xb4\xfc\xd8\xc9\x03\xb5)\r\x11\xd9\xcb\xe5>\xdf\xe15\xa8\x0eFEd\x10^A\xb3\xafz\xd5\x8c\x10\x80\x1e\xb51\x1c\x86\xc8\xe28\xcb\xfaVjy\x89pnY\x91\xcb\x8c\x11\x8cc\xf0\xad\x1b\x842[\xba\xaf\xde#\x8f\xadc\xac\xb24\x8a\x8c\x08\xc1\xe7\x9a\xa6$^VT\x93\xcc#,{\xd5\xe4}\xe8\x1b\xd6\xb3X\x9e\xd5\xa1\x12\xf9q*\x9e\xa0sJ#\x90\xa7v\xd3\xb7\x19\xf7\xac\x96\x89\xa2\x98\xe7\x19\xa2\x8ar\xd0"\xae\xc9\xad\xa3g\xb8\xcfa\xcdh\x82q\xcd\x14SN\xe8MY\x9f'), PhotoSize(type='m', w=256, h=320, size=17579), PhotoSize(type='x', w=640, h=800, size=72686), PhotoSizeProgressive(type='y', w=1024, h=1280, sizes=[13275, 26355, 33701, 49526, 94396])], dc_id=2, has_stickers=False, video_sizes=[]), ttl_seconds=None), reply_markup=ReplyInlineMarkup(rows=[KeyboardButtonRow(buttons=[KeyboardButtonUrl(text='Участвовать (547)', url='https://t.me/Randomized/JoinLot?startapp=3853534Ac531b25&startApp=3853534Ac531b25')])]), entities=[MessageEntityBold(offset=0, length=146), MessageEntityMention(offset=176, length=14), MessageEntityMention(offset=193, length=12)], views=363, forwards=0, replies=None, edit_date=None, post_author=None, grouped_id=None, reactions=None, restriction_reason=[], ttl_period=None, quick_reply_shortcut_id=None, effect=None, factcheck=None, report_delivery_until_date=None, paid_message_stars=None, suggested_post=None)
+==============================
+нашли пост: Конкурс! Решили пора... | URL: https://t.me/botavikosclub/3064
+Результат анализа: GIVEAWAY
+Ключевые слова: ['конкурс', 'победитель', 'участвовать', 'подарочный']
+Баллы: розыгрыш=6.80, реклама=0.30, итог=6.50
+analysis_data['end_date'] 9 февраля
+🎁 Найден розыгрыш! Пересылаем...
+📨 Обрабатываю пост (431 символов)...
+🔍 Проверяю, является ли пост розыгрышем...
+✅ Ответ API (классификация): ДА
+🎯 Извлекаю детальную информацию о розыгрыше...
+✅ Данные успешно извлечены!
+📋 Заголовок: Конкурс
+🎁 Что разыгрывают: Подарочный сертификат на 3000 рублей на новый спортивный образ EUPHORIA, Бьюти-бокс с новинками Botavikos
+📝 Условия: подписаться на @botavikosclub, подписаться на @euphoriafit, нажать кнопку "Участвовать" под постом
+📅 До какого числа: 09.02.2026
+{'is_giveaway': True, 'giveaway_name': 'Конкурс', 'conditions': ['подписаться на @botavikosclub', 'подписаться на @euphoriafit', 'нажать кнопку "Участвовать" под постом'], 'prizes': ['Подарочный сертификат на 3000 рублей на новый спортивный образ EUPHORIA', 'Бьюти-бокс с новинками Botavikos'], 'end_date': '09.02.2026'}
+✅ Пост успешно отправлен в @halyav_pirog
+✅ Есть данные для сохранения в БД
+📝 Начинаю сохранение анализа поста в БД...
+   channel_id: -1001601114049
+   original_id: 3064
+   Создаю новый пост...
+   Post создан с ID: 1
+   Создаю новый анализ...
+✅ Анализ успешно сохранен в БД с ID: 1
+✅ Анализ успешно сохранен в БД с ID: 1
+👂 Слушаем тгк
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8222273795)
+Traceback (most recent call last):
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "c:\Users\GERMAN\Desktop\halyava_bot\main.py", line 59, in main
+    await dp.start_polling(bot_tg, db=db)
+  File "C:\Users\GERMAN\Desktop\halyava_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 613, in start_polling
+    done, pending = await asyncio.wait(tasks, return_when=asyncio.FIRST_COMPLETED)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\tasks.py", line 432, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\tasks.py", line 521, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\GERMAN\Desktop\halyava_bot\main.py", line 78, in <module>
+    asyncio.run(main())
+    ~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 132, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt

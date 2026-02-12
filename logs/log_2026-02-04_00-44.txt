@@ -1,0 +1,49 @@
+✅ Подключились к базе halyava!
+✅ Планировщик бэкапов запущен (каждые 24 часа).
+✅ Бэкап успешно создан: halyava_backu_20260204_004409.sql
+✅ Файл бэкапа отправлен и удален.
+✅ Задача keep_alive запущена.
+✅ Бот запущен
+==============================
+Message(id=16315, peer_id=PeerChannel(channel_id=2086938408), date=datetime.datetime(2026, 2, 3, 18, 23, 11, tzinfo=datetime.timezone.utc), message='🎁АБСОЛЮТНО БЕСПЛАТНО 🎁\n           20 призовых мест 😱💥\n\nМы с нашими товарищами решили скинуться и хорошенько порадовать свою аудиторию.\nЧто мы для вас подготовили, внимание:\n\n1 место - iPhone 17 Pro \n2 место - Яндекс станция Миди\n3 место - Яндекс станция Миди\n4 место - Яндекс станция Лайт 2\n5 место - Яндекс станция Лайт 2\n6-10 место по 2000 рублей \n11-20 место по 1000₽\n\nУсловия как всегда очень просты, от вас требуется лишь подписка на указанные ниже каналы и нажать кнопку УЧАСТВУЮ⬇️\n\n➡️ R&M team\n➡️ ПризON\n➡️ Клуб БАРРАКУДА\n➡️ LION TEAM\n➡️ Event Club\n➡️ Rusinov&Dedyukhin\n➡️ CHERIKOV | Lucky Man\n➡️ LОВИ UДАЧУ\n\n⚠️Каждому победителю необходимо связаться с организатором @ICE_BER6 и подтвердить свою личность в первые 24 часа после подведения итогов!!!\n\n27.02 в 17:00 по МСК бот автоматически выберет 20 победителей\n\nНЕ УПУСТИТЕ СВОЙ ШАНС 🔥\nВСЕМ УДАЧИ 🍀', out=False, mentioned=False, media_unread=False, silent=True, post=True, from_scheduled=False, legacy=False, edit_hide=True, pinned=False, noforwards=False, invert_media=False, offline=False, video_processing_pending=False, paid_suggested_post_stars=False, paid_suggested_post_ton=False, from_id=None, from_boosts_applied=None, saved_peer_id=None, fwd_from=MessageFwdHeader(date=datetime.datetime(2026, 2, 3, 9, 0, 45, tzinfo=datetime.timezone.utc), imported=False, saved_out=False, from_id=PeerChannel(channel_id=2267709768), from_name=None, channel_post=4523, post_author=None, saved_from_peer=None, saved_from_msg_id=None, saved_from_id=None, saved_from_name=None, saved_date=None, psa_type=None), via_bot_id=None, via_business_bot_id=None, reply_to=None, media=MessageMediaPhoto(spoiler=False, photo=Photo(id=5190621505576964550, access_hash=-8948631159601557431, file_reference=b"\x02|d'(\x00\x00?\xbbi\x82P1$\x0e\xb7\x86f7+t\xe4\xff\xc0\xf9S\xf5\xe8\xa1", date=datetime.datetime(2026, 2, 3, 7, 58, 25, tzinfo=datetime.timezone.utc), sizes=[PhotoStrippedSize(type='i', bytes=b"\x01(\x1d\xce\x86\xd9\xdc\x079\x08z\x10EI\xf66\xc9\xeb\x8cg9\x1d?:\xae9`\x07\x7fz|\x88Fp\xc4\xf1E\x80\x94Y\xf5\xdd\xb8c=0\x7f\xadV\x926\x8d\xb6\xb8\xc1\xfa\xd5\xa3i,v\x8b;p\x0f8\xce\rW+\x9c\x16\xc9\xcf\xbd\x00I\x1c.\xe9\x94C\xd7\xefg\x14\xe9N8n\x08\xea)`\xb8(\xa1q\x9cS\xee-\xa5v\xf3\x13\xe7\xdd\xd4\x01\xd2\xabKh!'\x9eI\x92?4\x8c\x01\xc68\xcdVg\xc1\xf9x\x1fZ\x9e[y\x93o\x03\x81\xebU\x98|\xc7\x9c\xd4\x8c@v\xf4\xfc\xeah\xee\xe7\x8b\xee>?\n(\xa0\x06\xbc\xb2\xccN\xe6$\xd44Q@\x1f"), PhotoSize(type='m', w=235, h=320, size=19986), PhotoSize(type='x', w=588, h=800, size=75752), PhotoSizeProgressive(type='y', w=941, h=1280, sizes=[11861, 24243, 37052, 55597, 97929])], dc_id=2, has_stickers=False, video_sizes=[]), ttl_seconds=None), reply_markup=ReplyInlineMarkup(rows=[KeyboardButtonRow(buttons=[KeyboardButtonUrl(text='Участвую! (596)', url='https://t.me/Randomized/JoinLot?startapp=3864972Ae728e3b&startApp=3864972Ae728e3b')])]), entities=[MessageEntityCustomEmoji(offset=0, length=2, document_id=5203996991054432397), MessageEntityBold(offset=2, length=20), MessageEntityBold(offset=22, length=2), MessageEntityCustomEmoji(offset=22, length=2, document_id=5203996991054432397), MessageEntityBold(offset=24, length=29), MessageEntityCustomEmoji(offset=53, length=2, document_id=5310134115498993485), MessageEntityCustomEmoji(offset=55, length=2, document_id=5276032951342088188), MessageEntityBold(offset=58, length=119), MessageEntityBold(offset=178, length=197), MessageEntityBold(offset=489, length=2), MessageEntityCustomEmoji(offset=489, length=2, document_id=5193202823411546657), MessageEntityCustomEmoji(offset=493, length=2, document_id=5193191330079062069), MessageEntityTextUrl(offset=496, length=8, url='https://t.me/Good_Luck_Team'), MessageEntityCustomEmoji(offset=505, length=2, document_id=5193191330079062069), MessageEntityTextUrl(offset=508, length=6, url='https://t.me/prizon9'), MessageEntityCustomEmoji(offset=515, length=2, document_id=5193191330079062069), MessageEntityTextUrl(offset=518, length=14, url='https://t.me/maluxsa'), MessageEntityCustomEmoji(offset=533, length=2, document_id=5193191330079062069), MessageEntityTextUrl(offset=536, length=9, url='https://t.me/Lionteam2806'), MessageEntityCustomEmoji(offset=546, length=2, document_id=5193191330079062069), MessageEntityTextUrl(offset=549, length=10, url='https://t.me/EventClub123'), MessageEntityCustomEmoji(offset=560, length=2, document_id=5193191330079062069), MessageEntityTextUrl(offset=563, length=17, url='https://t.me/RusinovDedyukhin'), MessageEntityCustomEmoji(offset=581, length=2, document_id=5193191330079062069), MessageEntityTextUrl(offset=584, length=20, url='https://t.me/luckyman_ok'), MessageEntityCustomEmoji(offset=605, length=2, document_id=5193191330079062069), MessageEntityTextUrl(offset=608, length=10, url='https://t.me/L0VI_UDACHU'), MessageEntityBlockquote(offset=620, length=139, collapsed=False), MessageEntityCustomEmoji(offset=620, length=2, document_id=5420323339723881652), MessageEntityBold(offset=622, length=55), MessageEntityMention(offset=678, length=9), MessageEntityBold(offset=687, length=28), MessageEntityBold(offset=716, length=43), MessageEntityBold(offset=822, length=40)], views=73, forwards=0, replies=None, edit_date=datetime.datetime(2026, 2, 3, 18, 26, 10, tzinfo=datetime.timezone.utc), post_author=None, grouped_id=None, reactions=MessageReactions(results=[ReactionCount(reaction=ReactionEmoji(emoticon='❤'), count=1, chosen_order=None)], min=False, can_see_list=False, reactions_as_tags=False, recent_reactions=[], top_reactors=[]), restriction_reason=[], ttl_period=None, quick_reply_shortcut_id=None, effect=None, factcheck=None, report_delivery_until_date=None, paid_message_stars=None, suggested_post=None)
+==============================
+нашли пост: 🎁АБСОЛЮТНО БЕСПЛАТНО... | URL: https://t.me/Good_Luck_Team/4523
+Результат анализа: AD
+Ключевые слова: ['приз', 'бесплатно', 'товар']
+Баллы: розыгрыш=1.70, реклама=1.10, итог=0.60
+analysis_data['end_date'] None
+Пост не является розыгрышем. Решение: AD
+👂 Слушаем тгк
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8222273795)
+Traceback (most recent call last):
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "c:\Users\GERMAN\Desktop\halyava_bot\main.py", line 59, in main
+    await dp.start_polling(bot_tg, db=db)
+  File "C:\Users\GERMAN\Desktop\halyava_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 613, in start_polling
+    done, pending = await asyncio.wait(tasks, return_when=asyncio.FIRST_COMPLETED)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\tasks.py", line 432, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\tasks.py", line 521, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\GERMAN\Desktop\halyava_bot\main.py", line 78, in <module>
+    asyncio.run(main())
+    ~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 132, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt

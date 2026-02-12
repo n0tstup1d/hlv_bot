@@ -1,0 +1,71 @@
+✅ Подключились к базе halyava!
+✅ Планировщик бэкапов запущен (каждые 24 часа).
+✅ Бэкап успешно создан: halyava_backu_20260203_213557.sql
+✅ Файл бэкапа отправлен и удален.
+✅ Задача keep_alive запущена.
+✅ Бот запущен
+❌ Ошибка при подписке: cannot access local variable 'channel_id' where it is not associated with a value
+==============================
+Message(id=16270, peer_id=PeerChannel(channel_id=2086938408), date=datetime.datetime(2026, 2, 3, 16, 27, 59, tzinfo=datetime.timezone.utc), message='Розыгрыш семи призов: Газета.Ru подарит Samsung Galaxy S24 Ultra, PlayStation 5 Pro и ПЯТЬ сертификатов на покупки на маркетплейсах. Шансы победить есть у каждого!\n\nЧто нужно сделать:\n\n1. Быть подписанным на нас в месенджере MAX и Telegram\n2. Не забыть сделать скриншот о подписке на MAX\n3. Нажать под этим постом на кнопку «Участвую!»\n4. Ждать результаты розыгрыша 16 февраля — итоги будут опубликованы в новом мессенджере в соответствии с правилами проведения\n\nЖелаем всем удачи!', out=False, mentioned=False, media_unread=False, silent=False, post=True, from_scheduled=False, legacy=False, edit_hide=False, pinned=False, noforwards=False, invert_media=False, offline=False, video_processing_pending=False, paid_suggested_post_stars=False, paid_suggested_post_ton=False, from_id=None, from_boosts_applied=None, saved_peer_id=None, fwd_from=MessageFwdHeader(date=datetime.datetime(2026, 2, 2, 13, 30, tzinfo=datetime.timezone.utc), imported=False, saved_out=False, from_id=PeerChannel(channel_id=1486063104), from_name=None, channel_post=63955, post_author=None, saved_from_peer=None, saved_from_msg_id=None, saved_from_id=None, saved_from_name=None, saved_date=None, psa_type=None), via_bot_id=None, via_business_bot_id=None, reply_to=None, media=MessageMediaPhoto(spoiler=False, photo=Photo(id=5188409812167889289, access_hash=1064705296671793668, file_reference=b"\x02|d'(\x00\x00?\x8ei\x82$\x0cG\xc7\x92\xbd\x04\xb8P\x83\x06SKu=\xe2EI", date=datetime.datetime(2026, 2, 2, 11, 42, tzinfo=datetime.timezone.utc), sizes=[PhotoStrippedSize(type='i', bytes=b'\x01((\xceX\x19\xa1]\xb10c\xfcd\xe0~t}\x8e~\xf1\xe3\x929#\xd3?\xd2\x9f\xba\xe3b\xc7\xf2\x80\x07\xdd\xc0\xe7\xebR\xa8\xbd\x90eYG\xa9\x18\x14\x01\x12\xd8\xbf\x1ec\x04\xcb\x05\xc63\xd4\x91\xfd\r<X\xc7\x9f\xf5\xeaT>\xd7\xf6\x1c}E+\xd9\\\x9ee\x94\x1f\xab\x13Ri^Z\xac\xccT\xb4\x98\xc0\xe3>\xb9\xfaP\x05g\x8a\x15\x88\x95l\xb7\xfb\xd9\xec?\xaeh\xaa\xeeI<t\xa2\x98\x16C\x92\xe1\x89\x05\x8a\x8c\xe4f\xac\xc5#,g\x1cg\xa5SF\xfd\xd0\xab*\xdf\xbb\x8cz/\xf54\xd0\x99!\x92B>f\xcdO\xa6\x94\x8a\xd6@y,\xc4\xff\x00J\xab\x9a\x92\xd2\xcb\xce\xdd!O\xe3<\xe6\x80 \x96i\xda)#\x96 \x13\xb6\xd0\x06\xd3E]\xd4Q-\xed\xf7!9\xce0\xc3\xad\x14h36\xdf\xcb\xda\x04\x87o\xe1W\x95a\xc8PA8\x07\xa7n\xd4QH\x10\xad\x08\xc7Q\x8a\x8e9m\xa1bZgW\xcf!I\xfe\x94QJ.\xe5I\x0e{\xfbi\x14\x86R\xf8\xe7\xe6\x1dh\xa2\x8a\xab\x91c'), PhotoSize(type='m', w=320, h=320, size=27254), PhotoSize(type='x', w=800, h=800, size=89867), PhotoSizeProgressive(type='y', w=1280, h=1280, sizes=[20882, 47231, 77762, 102573, 149110])], dc_id=2, has_stickers=False, video_sizes=[]), ttl_seconds=None), reply_markup=ReplyInlineMarkup(rows=[KeyboardButtonRow(buttons=[KeyboardButtonUrl(text='Участвую! (2137)', url='https://t.me/giway_tech_bot/giveaway_app?startapp=72944755')])]), entities=[MessageEntityBold(offset=0, length=22), MessageEntityTextUrl(offset=214, length=14, url='https://max.ru/gazeta'), MessageEntityTextUrl(offset=231, length=8, url='https://t.me/gazetaru'), MessageEntityTextUrl(offset=284, length=3, url='https://max.ru/gazeta'), MessageEntityTextUrl(offset=404, length=19, url='https://max.ru/gazeta'), MessageEntityTextUrl(offset=426, length=36, url='https://www.gazeta.ru/contest/prize_draw_22410103.shtml')], views=31, forwards=0, replies=None, edit_date=None, post_author=None, grouped_id=None, reactions=None, restriction_reason=[], ttl_period=None, quick_reply_shortcut_id=None, effect=None, factcheck=None, report_delivery_until_date=None, paid_message_stars=None, suggested_post=None)
+==============================
+нашли пост: Розыгрыш семи призов... | URL: https://t.me/konkyrstelegram/16270
+Результат анализа: GIVEAWAY
+Ключевые слова: ['розыгрыш', 'приз']
+Баллы: розыгрыш=5.80, реклама=0.30, итог=5.50
+analysis_data['end_date'] 16 февраля
+🎁 Найден розыгрыш! Пересылаем...
+📨 Обрабатываю пост (481 символов)...
+🔍 Проверяю, является ли пост розыгрышем...
+✅ Ответ API (классификация): ДА
+🎯 Извлекаю детальную информацию о розыгрыше...
+✅ Данные успешно извлечены!
+📋 Заголовок: Розыгрыш семи призов
+🎁 Что разыгрывают: Samsung Galaxy S24 Ultra, PlayStation 5 Pro, 5 сертификатов на покупки на маркетплейсах
+📝 Условия: быть подписанным на нас в мессенджере MAX и Telegram, сделать скриншот о подписке на MAX, нажать под постом на кнопку «Участвую!»
+📅 До какого числа: 16.02.2026
+{'is_giveaway': True, 'giveaway_name': 'Розыгрыш семи призов', 'conditions': ['быть подписанным на нас в мессенджере MAX и Telegram', 'сделать скриншот о подписке на MAX', 'нажать под постом на кнопку «Участвую!»'], 'prizes': ['Samsung Galaxy S24 Ultra', 'PlayStation 5 Pro', '5 сертификатов на покупки на маркетплейсах'], 'end_date': '16.02.2026'}
+✅ Пост успешно отправлен в @halyav_pirog
+analysis_data['end_date'] 2026-02-16
+✅ Есть данные для сохранения в БД
+📝 Начинаю сохранение анализа поста в БД...
+   channel_id: -1001486063104
+   original_id: 63955
+   Создаю новый пост...
+   Post создан с ID: 13
+   Создаю новый анализ...
+✅ Анализ успешно сохранен в БД с ID: 13
+✅ Анализ успешно сохранен в БД с ID: 13
+👂 Слушаем тгк
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8222273795)
+Traceback (most recent call last):
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "c:\Users\GERMAN\Desktop\halyava_bot\main.py", line 59, in main
+    await dp.start_polling(bot_tg, db=db)
+  File "C:\Users\GERMAN\Desktop\halyava_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 613, in start_polling
+    done, pending = await asyncio.wait(tasks, return_when=asyncio.FIRST_COMPLETED)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\tasks.py", line 432, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\tasks.py", line 521, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\GERMAN\Desktop\halyava_bot\main.py", line 78, in <module>
+    asyncio.run(main())
+    ~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 132, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt

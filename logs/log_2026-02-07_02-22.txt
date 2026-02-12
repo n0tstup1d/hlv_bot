@@ -1,0 +1,15 @@
+2026-02-07 02:22:20,372 [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-07 02:22:20,373 [INFO] Added job "Database.backup_database_and_send_to_admin" to job store "default"
+2026-02-07 02:22:20,373 [INFO] Scheduler started
+2026-02-07 02:22:20,375 [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-07 02:22:20,376 [INFO] Added job "send_daily_digest" to job store "default"
+2026-02-07 02:22:20,376 [INFO] Scheduler started
+2026-02-07 02:22:20,377 [INFO] Start polling
+2026-02-07 02:22:20,378 [INFO] Running job "Database.backup_database_and_send_to_admin (trigger: interval[1 day, 0:00:00], next run at: 2026-02-08 02:22:20 +05)" (scheduled at 2026-02-07 02:22:20.371854+05:00)
+2026-02-07 02:22:20,949 [INFO] Run polling for bot @utylbot id=8222273795 - 'иуда'
+2026-02-07 02:22:25,039 [INFO] Job "Database.backup_database_and_send_to_admin (trigger: interval[1 day, 0:00:00], next run at: 2026-02-08 02:22:20 +05)" executed successfully
+2026-02-07 02:25:41,372 [INFO] Polling stopped
+2026-02-07 02:25:41,375 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-02-07 02:25:41,375 [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8222273795)
+2026-02-07 02:25:41,635 [INFO] Not disconnecting (already have no connection)
+2026-02-07 02:25:41,637 [INFO] Polling stopped for bot @utylbot id=8222273795 - 'иуда'

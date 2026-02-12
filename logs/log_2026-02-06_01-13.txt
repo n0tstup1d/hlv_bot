@@ -1,0 +1,57 @@
+✅ Подключились к базе halyava!
+✅ Планировщик бэкапов запущен (каждые 24 часа).
+✅ Бэкап успешно создан: halyava_backu_20260206_011314.sql
+✅ Файл бэкапа отправлен и удален.
+✅ Задача keep_alive запущена.
+✅ Бот запущен
+👂 Слушаем тгк
+==============================
+NewMessage.Event(original_update=UpdateNewChannelMessage(message=Message(id=16490, peer_id=PeerChannel(channel_id=2086938408), date=datetime.datetime(2026, 2, 5, 20, 15, 51, tzinfo=datetime.timezone.utc), message='⚡️Разыгрываем 100 кастомных календарей с бибизяном на КОНЕ! Символ канала и символа года — календарь будет приятно повесить дома или офисе и любоваться каждый день. \n\nКалендарей всего 100, их мы с любовью сделали в Питере и отправим всем победителям СДЭКом по зоне его покрытия. От вас только нажать кнопку «Поскакали в 2026», и вы автоматически участвуете. \n\nИтоги подведем ровно через неделю. При 100 победителях шансы выиграть максимальные, удачи❤️', out=False, mentioned=False, media_unread=False, silent=False, post=True, from_scheduled=False, legacy=False, edit_hide=False, pinned=False, noforwards=False, invert_media=False, offline=False, video_processing_pending=False, paid_suggested_post_stars=False, paid_suggested_post_ton=False, from_id=None, from_boosts_applied=None, saved_peer_id=None, fwd_from=MessageFwdHeader(date=datetime.datetime(2026, 2, 5, 18, 53, 34, tzinfo=datetime.timezone.utc), imported=False, saved_out=False, from_id=PeerChannel(channel_id=1120334689), from_name=None, channel_post=19788, post_author=None, saved_from_peer=None, saved_from_msg_id=None, saved_from_id=None, saved_from_name=None, saved_date=None, psa_type=None), via_bot_id=None, via_business_bot_id=None, reply_to=None, media=MessageMediaPhoto(spoiler=False, photo=Photo(id=5199885814458944533, access_hash=-7100027268317426273, file_reference=b"\x02|d'(\x00\x00@ji\x84\xfaw\xf0\x82\xc1\x1fj\x8eq\xde\x00:c\xfbP\x80\x14\x8c", date=datetime.datetime(2026, 2, 5, 18, 41, 54, tzinfo=datetime.timezone.utc), sizes=[PhotoStrippedSize(type='i', bytes=b"\x01( \xd1\x93!\xd8\x86a\xdf\xd8Te\xb9?\xe9@g\xb6*y\xbf\xd57\xd2\xb2f\xf9\x1cc\x14\x99KWcA\x99@\xca\xdcs\xf9\xd3\xe3\xde\x1f\x05\xc9\x1e\xe3\xff\x00\xafY\xcf$y\x8dP\xe4\x0e\xa6\xb5\x15\xc6\xc1\xf4\xa1\x03#\x97sD\xc0\x03\x92+=\xadgla\x18q\xd0\xd5\xb9Z\xe3\xce;\x01(H\xc6\x08\xa9\xad\xcc\xd8o4c\x9e\x07\x14n\x0bMQ\x96m'Q\xfe\xad\x8f\xd0V\xb4q\xfe\xeds\xd7\x15.?\x01Qo4%`rl\x8d\xf7\x8d\xdb\x07\xcc9\x19\xe8MD$\xbc\xfe\xec\x7f\x95\x14P\xc5\x19y\x01\x92\xf3\xfb\xb1\xd4\xc9/\xcc\x10\xaf\xcd\x8c\x9a(\xa0\x1b?"), PhotoSize(type='m', w=254, h=320, size=21896), PhotoSize(type='x', w=635, h=800, size=85237), PhotoSizeProgressive(type='y', w=740, h=932, sizes=[9878, 27249, 45029, 61414, 91773])], dc_id=2, has_stickers=False, video_sizes=[]), ttl_seconds=None), reply_markup=ReplyInlineMarkup(rows=[KeyboardButtonRow(buttons=[KeyboardButtonUrl(text='Поскакали в 2026 (713)', url='https://t.me/Random/JoinLot?startapp=2010367G09ac103&startApp=2010367G09ac103')])]), entities=[MessageEntityCustomEmoji(offset=0, length=2, document_id=5289487503332498098), MessageEntityCustomEmoji(offset=449, length=2, document_id=5294036775642099303)], views=1, forwards=0, replies=None, edit_date=None, post_author=None, grouped_id=None, reactions=None, restriction_reason=[], ttl_period=None, quick_reply_shortcut_id=None, effect=None, factcheck=None, report_delivery_until_date=None, paid_message_stars=None, suggested_post=None), pts=18900, pts_count=1), pattern_match=None, message=Message(id=16490, peer_id=PeerChannel(channel_id=2086938408), date=datetime.datetime(2026, 2, 5, 20, 15, 51, tzinfo=datetime.timezone.utc), message='⚡️Разыгрываем 100 кастомных календарей с бибизяном на КОНЕ! Символ канала и символа года — календарь будет приятно повесить дома или офисе и любоваться каждый день. \n\nКалендарей всего 100, их мы с любовью сделали в Питере и отправим всем победителям СДЭКом по зоне его покрытия. От вас только нажать кнопку «Поскакали в 2026», и вы автоматически участвуете. \n\nИтоги подведем ровно через неделю. При 100 победителях шансы выиграть максимальные, удачи❤️', out=False, mentioned=False, media_unread=False, silent=False, post=True, from_scheduled=False, legacy=False, edit_hide=False, pinned=False, noforwards=False, invert_media=False, offline=False, video_processing_pending=False, paid_suggested_post_stars=False, paid_suggested_post_ton=False, from_id=None, from_boosts_applied=None, saved_peer_id=None, fwd_from=MessageFwdHeader(date=datetime.datetime(2026, 2, 5, 18, 53, 34, tzinfo=datetime.timezone.utc), imported=False, saved_out=False, from_id=PeerChannel(channel_id=1120334689), from_name=None, channel_post=19788, post_author=None, saved_from_peer=None, saved_from_msg_id=None, saved_from_id=None, saved_from_name=None, saved_date=None, psa_type=None), via_bot_id=None, via_business_bot_id=None, reply_to=None, media=MessageMediaPhoto(spoiler=False, photo=Photo(id=5199885814458944533, access_hash=-7100027268317426273, file_reference=b"\x02|d'(\x00\x00@ji\x84\xfaw\xf0\x82\xc1\x1fj\x8eq\xde\x00:c\xfbP\x80\x14\x8c", date=datetime.datetime(2026, 2, 5, 18, 41, 54, tzinfo=datetime.timezone.utc), sizes=[PhotoStrippedSize(type='i', bytes=b"\x01( \xd1\x93!\xd8\x86a\xdf\xd8Te\xb9?\xe9@g\xb6*y\xbf\xd57\xd2\xb2f\xf9\x1cc\x14\x99KWcA\x99@\xca\xdcs\xf9\xd3\xe3\xde\x1f\x05\xc9\x1e\xe3\xff\x00\xafY\xcf$y\x8dP\xe4\x0e\xa6\xb5\x15\xc6\xc1\xf4\xa1\x03#\x97sD\xc0\x03\x92+=\xadgla\x18q\xd0\xd5\xb9Z\xe3\xce;\x01(H\xc6\x08\xa9\xad\xcc\xd8o4c\x9e\x07\x14n\x0bMQ\x96m'Q\xfe\xad\x8f\xd0V\xb4q\xfe\xeds\xd7\x15.?\x01Qo4%`rl\x8d\xf7\x8d\xdb\x07\xcc9\x19\xe8MD$\xbc\xfe\xec\x7f\x95\x14P\xc5\x19y\x01\x92\xf3\xfb\xb1\xd4\xc9/\xcc\x10\xaf\xcd\x8c\x9a(\xa0\x1b?"), PhotoSize(type='m', w=254, h=320, size=21896), PhotoSize(type='x', w=635, h=800, size=85237), PhotoSizeProgressive(type='y', w=740, h=932, sizes=[9878, 27249, 45029, 61414, 91773])], dc_id=2, has_stickers=False, video_sizes=[]), ttl_seconds=None), reply_markup=ReplyInlineMarkup(rows=[KeyboardButtonRow(buttons=[KeyboardButtonUrl(text='Поскакали в 2026 (713)', url='https://t.me/Random/JoinLot?startapp=2010367G09ac103&startApp=2010367G09ac103')])]), entities=[MessageEntityCustomEmoji(offset=0, length=2, document_id=5289487503332498098), MessageEntityCustomEmoji(offset=449, length=2, document_id=5294036775642099303)], views=1, forwards=0, replies=None, edit_date=None, post_author=None, grouped_id=None, reactions=None, restriction_reason=[], ttl_period=None, quick_reply_shortcut_id=None, effect=None, factcheck=None, report_delivery_until_date=None, paid_message_stars=None, suggested_post=None))
+==============================
+нашли пост: ⚡️Разыгрываем 100 ка... | URL: https://t.me/c/1120334689/19788
+Результат анализа: GIVEAWAY
+Ключевые слова: ['выиграть', 'разыгрываем']
+Баллы: розыгрыш=3.00, реклама=0.30, итог=2.70
+analysis_data['end_date'] None
+🎁 Найден розыгрыш! Пересылаем...
+Unhandled exception on handler
+Traceback (most recent call last):
+  File "C:\Users\GERMAN\Desktop\halyava_bot\.venv\Lib\site-packages\telethon\client\updates.py", line 574, in _dispatch_update
+    await callback(event)
+  File "c:\Users\GERMAN\Desktop\halyava_bot\client\client.py", line 379, in handler
+    print(f"🎯 Получены данные от ИИ: качество={data.get('quality_score')}")
+                                                ^^^^
+UnboundLocalError: cannot access local variable 'data' where it is not associated with a value
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8222273795)
+Traceback (most recent call last):
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "c:\Users\GERMAN\Desktop\halyava_bot\main.py", line 59, in main
+    await dp.start_polling(bot_tg, db=db)
+  File "C:\Users\GERMAN\Desktop\halyava_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 613, in start_polling
+    done, pending = await asyncio.wait(tasks, return_when=asyncio.FIRST_COMPLETED)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\tasks.py", line 432, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\tasks.py", line 521, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\GERMAN\Desktop\halyava_bot\main.py", line 78, in <module>
+    asyncio.run(main())
+    ~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\GERMAN\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 132, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
